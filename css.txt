@@ -1,0 +1,90 @@
+ 
+1. What are the benefits of using CSS? 
+Ans :- CSS stands for Cascading Style sheets. 
+•CSS save time.  
+•page load faster.  
+•Easy Maintainance.  
+•Offline browsing. 
+ 
+2. What are the disadvantages of CSS? 
+ANS :- CSS stands for Cascading Style sheets. 
+•cross browser issues 
+•lack of security 
+•security issues  
+•high chance of confusion 
+ 
+3. What is the difference between CSS2 and CSS3? 
+ANS :-      
+          
+                  CSS 2 	                      CSS 3 
+•	Released In 1998 	        •	Released In 1999 
+•	Specification single document  	•	Specification divided into individual modules  
+•	Rounded Borders is not  	•	Rounded Borders is include  
+ 
+4. Name a few CSS style components 
+ANS:-         layout. 
+              Animation. 
+              Forms styles. 
+              Selectors. 
+              Colour And background. 
+ 
+5. What do you understand by CSS opacity?  
+ ANS :-  The CSS opacity property is used to specify the transparency of an element. In simple word, you can say that it specifies the clarity of the image. In technical terms, Opacity is defined as degree in which light is allowed to travel through an object.  
+ 
+6. How can the background color of an element be changed? 
+ANS:-  To add background color in HTML, use the CSS background-color property. Set it to the color name or code you want a style attribute. Then add this style attribute to an HTML element, like a table, heading, div, or span tag. 
+ 
+7. can image repetition How of the backup be controlled? 
+ANS :-  The background-repeat property in CSS is used to repeat the background image both horizontally and vertically. It also decides whether the background image will be repeated or not. 
+ 
+8.  What is the use of the background-position property? 
+ANS:-  The background-position property sets the starting position of a background image.  By default, a background-image is the top-left corner of an element, and repeated both vertically and horizontally. 
+
+9. Which property controls the image scroll in the background? 
+ANS:-  The background  property sets whether a background image scrolls with the rest of the page or is fixed.   
+ 
+10. Why should background and color be used as separate properties? 
+ANS:-  There are two reason The background property is a complex property in CSS, and if it is combined with color, the complexity will further increase.  
+ 
+11. How to center block elements using CSS1? 
+ ANS :- To centrally align the block elements, we can  use of the <center> tag. All the elements within the <center> tag will be centrally aligned.  
+ 
+12. How to maintain the CSS specifications? 
+ANS:-  The CSS specifications are maintained by the World Wide Web Consortium (W3C).  
+ 
+13. What are the ways to integrate CSS as a web page? 
+ANS:-  Mainly 3 ways to integrate CSS as a web page . 
+ 
+Inline - by using the style attribute inside HTML elements.  
+Internal - by using a <style> element in the <head> section.  
+External -by using a<link>element to link to an external CSS  file.  
+ 
+14. What is embedded style sheets? 
+ANS:- This is done by embedding the <style></style> Tag. 
+ 
+15. What are the external style sheets? 
+ANS:- CSS file that can be accessed by creating a link within the head section of the webpage. 
+ 
+16. What are the advantages and disadvantages of using external style sheets? 
+ANS:-    The Advantages of External Style Sheets are as follows: - 
+•	With the help of External Style Sheets, the styles of numerous documents can be organized from one single file.  
+•	In External Style Sheets, Classes can be made for use on numerous HTML element types in many forms of the site.  
+•	In complex contexts, Methods like selector and grouping can be implemented to apply styles.  
+  
+•	The Disadvantages of External Style Sheets are as follows: - 
+•	An extra download is essential to import style information for each file.  
+•	The execution of the file may be deferred till the external style sheet is loaded.  
+•	While implementing style sheets, we need to test Web pages with multiple browsers to check compatibility issues. 
+ 
+17. What is the meaning of the CSS selector? 
+ANS:- CSS selectors are used to "find"  the HTML elements you want to style.  
+ 
+ 
+18. What are the media types allowed by CSS? 
+ANS:- mainly 3 type of media query in CSS. 
+1.All 
+2.Print 
+3.screen 
+ 
+19. What is the rule set?	 
+ANS:- A selector list and an associated declaration block , together are called a rule set.
